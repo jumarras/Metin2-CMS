@@ -111,6 +111,17 @@ $autoload['language'] = array();
 
 $autoload['model'] = array();
 
+/*
+| -------------------------------------------------------------------
+|  Auto-load Smarty View
+| -------------------------------------------------------------------
+| Prototype:
+|
+|	$this->parser->parse()
+*/
+
+$autoload['parser'] = array();
+
 
 /* End of file autoload.php */
 /* Location: ./application/config/autoload.php */
