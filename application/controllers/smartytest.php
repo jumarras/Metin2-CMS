@@ -18,16 +18,15 @@ class Smartytest extends CI_Controller {
     public function __construct()
     {
         parent::__construct();
-        
-        // Ideally you would autoload the parser
+        // Se carga el archivo principal de idioma pasarlo al hook
+        //$this->lang->load('front_end');
         $this->load->library('parser');
     }
 
     public function index()
     {    
-        // Some example data
-        $data['title'] = "The Smarty parser works!";
-        $data['body']  = "This is body text to show that the Smarty Parser works!";
+        // Envio la correspondiente palabra del lenguaje
+        //$data['prueba'] = $this->lang->line('comunity_home');
         
         // Load the template from the views directory
         $this->parser->parse("index.tpl", $data);
