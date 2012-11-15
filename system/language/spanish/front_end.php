@@ -24,6 +24,24 @@ $lang['admin_home'] = "Administracion";
 /////// End Menu ///////
 
 
+
+/////// Links ///////
+
+$lang['history_home'] = "Historia";
+$lang['history_des_home'] = "El mundo de Metin2.";
+$lang['pj_home'] = "Personajes";
+$lang['pj_des_home'] = "Descrubre a los personajes";
+$lang['mission_home'] = "Misiones";
+$lang['mission_des_home'] = "Completa las misiones.";
+$lang['faq_home'] = "FAQs";
+$lang['faq_des_home'] = "Respuesta a tus preguntas frecuentes.";
+
+/////// End Links ///////
+
+
+
+
+
 $lang['new_home'] = "Noticias";
 $lang['fecha_news_home'] = "Fecha: %s";
 
