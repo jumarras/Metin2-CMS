@@ -49,3 +49,6 @@ Panel Administrador:
   
     • APP Movil (" El panel del admin desde el movil ")
   
+
+  
+Vidali es un proyecto protegido bajo la licencia GPLv3. Puedes leer mas sobre la licencia en el archivo LICENSE.txt adjunto.
