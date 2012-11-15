@@ -51,4 +51,4 @@ Panel Administrador:
   
 
   
-Vidali es un proyecto protegido bajo la licencia GPLv3. Puedes leer mas sobre la licencia en el archivo LICENSE.txt adjunto.
+CMS Metin2 es un proyecto protegido bajo la licencia GPLv3. Puedes leer mas sobre la licencia en el archivo LICENSE.txt adjunto.
